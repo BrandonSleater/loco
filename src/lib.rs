@@ -54,7 +54,7 @@ pub mod environment;
 pub mod errors;
 mod gen;
 pub mod hash;
-mod logger;
+pub mod logger;
 pub mod mailer;
 mod redis;
 pub mod task;
